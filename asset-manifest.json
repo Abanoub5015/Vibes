@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vibes/static/css/main.203f5afc.css",
+    "main.js": "/Vibes/static/js/main.faf47f85.js",
+    "static/js/787.e6314f27.chunk.js": "/Vibes/static/js/787.e6314f27.chunk.js",
+    "index.html": "/Vibes/index.html",
+    "main.203f5afc.css.map": "/Vibes/static/css/main.203f5afc.css.map",
+    "main.faf47f85.js.map": "/Vibes/static/js/main.faf47f85.js.map",
+    "787.e6314f27.chunk.js.map": "/Vibes/static/js/787.e6314f27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.203f5afc.css",
+    "static/js/main.faf47f85.js"
+  ]
+}
