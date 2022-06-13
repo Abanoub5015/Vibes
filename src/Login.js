@@ -36,7 +36,7 @@ function Login() {
                 <img src='https://i.ibb.co/3pnVR8H/vibes-logo.crop.png' alt='' />
             </div>
 
-            <Button type="submit" onClick={signIn} > Sign In </Button>
+            <Button type="submit" onClick={signIn} > Sign In (github edit)</Button>
 
         </div>
     )
