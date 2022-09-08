@@ -127,7 +127,7 @@ git commit -m "first commit"
 git push origin main
 
  [make sure that (package.json => homepage: "") is empty] 
- then do the following:-
+ then do the following:
 
  npm run build
  firebase deploy
