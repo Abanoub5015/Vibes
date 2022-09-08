@@ -83,7 +83,7 @@ npm start
 
 * ## Firebase Commands
 ```
- npm i -g firebase-tools   
+ npm i -g firebase-tools
 ```
 ```
  firebase logout
@@ -113,7 +113,7 @@ git pull origin main
 
 * ## git (deploy-page) Commands [// means once]
 ```
-[1] npm run build  
+[1] npm run build
 [2] firebase deploy
 
 ```
@@ -125,6 +125,9 @@ git pull origin main
 git add *
 git commit -m "first commit"
 git push origin main
+
+ [make sure that (package.json => homepage: "") is empty] 
+ then do the following:-
 
  npm run build
  firebase deploy
