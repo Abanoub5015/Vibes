@@ -8,7 +8,7 @@
 | [![]()]() | [![]()]() | 
 |:---:|:---:|
 | *Sign-in*  | *Home*  |
-| [![screenShot_Vibes](https://i.ibb.co/gFfvfqy/image.png)](https://vibes.gq/)| [![screenShot_Vibes](https://i.ibb.co/LpN7qqJ/image.png)](https://vibes.gq/)
+| [![screenShot_Vibes](https://user-images.githubusercontent.com/82307701/192166737-3c264e62-e53e-48d2-bc1d-69796503c2b6.png)](https://vibes.gq/)| [![screenShot_Vibes](https://user-images.githubusercontent.com/82307701/192166750-98c7562b-0c91-4318-8e3c-fcc9e826b96d.png)](https://vibes.gq/)
 
 # 👉🏻[Here's the website [vibes.gq]](http://vibes.gq/)
 
